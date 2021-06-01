@@ -1,1 +1,0 @@
-// los null son objetos
